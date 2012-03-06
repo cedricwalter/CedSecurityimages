@@ -1,0 +1,37 @@
+SecurityImages 6.0.X for Joomla 1.6/1.7/2.5
+
+This small plugin for Joomla! 1.6/1.7 is able to add different kind of Captcha to ALL Joomla
+forms that are using JForm.
+
+Joomla 1.6
+Due to a partial migration of Joomla! internal forms to JForm, only the Registration form can be protected with a Captcha
+
+Joomla 1.7
+In Joomla! 1.7 also Contact, Login, Remind Password can be protected without any code change.
+
+Joomla 2.5
+All Joomla Forms can be protected by SecurityImages, 3rd party extension that use JForm are ALSO protected!
+
+Features
+
+* Support Recapctha, KeyCaptcha and NuCaptcha
+* Native Joomla! 1.6 plugins
+* Support for SEF friendly URLs
+* Code produced is XHTML 1.0 Strict,
+* Tested in the following browser Firefox, Opera, Chrome, IE 8
+* Approved at Joomla Extension JED (Soon),
+* GPL v3.0,
+
+Support
+
+Official Forums support where you can report bugs or ask for new features
+http://forums.waltercedric.com/
+
+Documentation
+
+http://wiki.waltercedric.com/index.php?title=SecurityImages6.0.X
+
+Download
+
+http://www.waltercedric.com/downloads/securityimages.html
+This file was modified by JetBrains PhpStorm 3.0.3 for binding GitHub repository
