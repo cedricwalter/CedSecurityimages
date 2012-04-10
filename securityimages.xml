@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="1.6" type="plugin" group="system">
+<extension version="1.6" type="plugin" group="system" method="upgrade">
 	<name>PLG_SYSTEM_SECURITYIMAGES</name>
+    <element>securityimages</element>
 	<creationDate>28 February 2011</creationDate>
 	<author>Cedric Walter</author>
 	<authorEmail>cedric.walter@gmail.com</authorEmail>
@@ -21,8 +22,8 @@
 	</files>
 	
 	<updateservers>
-		<server type="extension" priority="1" name="Extension Update Site">http://www.waltercedric.com/update/plugins/securityimages/extension.xml</server>
-		<server type="collection" priority="2" name="Collection Update Site">http://www.waltercedric.com/update/update.xml</server>
+		<server type="extension" priority="1" name="Extension Update Site">http://updates.waltercedric.com/plugins/securityimages/extension.xml</server>
+		<server type="collection" priority="2" name="Collection Update Site">http://updates.waltercedric.com/update.xml</server>
 	</updateservers>
 	
 	<config>
