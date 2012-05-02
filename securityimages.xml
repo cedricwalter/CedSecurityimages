@@ -9,7 +9,7 @@
 	<copyright>Copyright (C) 2004-2012 Cedric Walter. All rights reserved.</copyright>
 	<license>GNU/GPL</license>
 	<description>PLG_SYSTEM_SECURITYIMAGES_DESCRIPTION</description>
-	<version>6.0.2</version>
+	<version>6.0.3</version>
 	
 	<files>
 		<folder>language</folder>
